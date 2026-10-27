@@ -84,7 +84,7 @@ Alternative Crop     : Millet
 Replace `YOUR-USERNAME` with your GitHub username.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/drought-smart-crop-planner.git
+git clone https://github.com/pranalimagdum-12/drought-smart-crop-planner
 ```
 
 ### 2. Navigate to the project directory
