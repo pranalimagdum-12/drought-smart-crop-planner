@@ -1,0 +1,33 @@
+﻿Farm_ID,Crop_Selected,3Mo_Precip_Forecast_mm,Current_Soil_Moisture_pct,Alert_Flag,Action_Recommendation
+F1001,Corn,120,25,🚨 High Risk,Switch to Sorghum
+F1002,Wheat,300,45,✅ Safe to Plant,Standard Watering Schedule
+F1003,Soybeans,150,30,🚨 High Risk,Switch to Millet
+F1004,Sorghum,110,22,✅ Safe to Plant,Minimal Watering Required
+F1005,Rice,400,60,✅ Safe to Plant,Standard Watering Schedule
+F1006,Corn,350,55,✅ Safe to Plant,Standard Watering Schedule
+F1007,Cotton,130,20,🚨 High Risk,Delay Planting
+F1008,Wheat,280,40,✅ Safe to Plant,Standard Watering Schedule
+F1009,Rice,150,28,🚨 High Risk,Switch to Drought-Resistant Variety
+F1010,Sorghum,100,18,✅ Safe to Plant,Minimal Watering Required
+F1011,Millet,90,15,✅ Safe to Plant,Minimal Watering Required
+F1012,Corn,140,26,🚨 High Risk,Switch to Sorghum
+F1013,Soybeans,310,50,✅ Safe to Plant,Standard Watering Schedule
+F1014,Wheat,120,24,🚨 High Risk,Switch to Barley
+F1015,Barley,120,24,✅ Safe to Plant,Monitor Soil Moisture
+F1016,Corn,400,62,✅ Safe to Plant,Standard Watering Schedule
+F1017,Cotton,290,45,✅ Safe to Plant,Standard Watering Schedule
+F1018,Rice,110,20,🚨 High Risk,Switch to Sorghum
+F1019,Sorghum,140,25,✅ Safe to Plant,Minimal Watering Required
+F1020,Millet,130,22,✅ Safe to Plant,Minimal Watering Required
+F1021,Corn,160,29,🚨 High Risk,Switch to Sorghum
+F1022,Wheat,320,52,✅ Safe to Plant,Standard Watering Schedule
+F1023,Soybeans,145,28,🚨 High Risk,Switch to Millet
+F1024,Rice,420,65,✅ Safe to Plant,Standard Watering Schedule
+F1025,Cotton,115,19,🚨 High Risk,Delay Planting
+F1026,Barley,160,30,✅ Safe to Plant,Monitor Soil Moisture
+F1027,Corn,380,58,✅ Safe to Plant,Standard Watering Schedule
+F1028,Wheat,130,25,🚨 High Risk,Switch to Barley
+F1029,Sorghum,95,16,✅ Safe to Plant,Minimal Watering Required
+F1030,Millet,105,19,✅ Safe to Plant,Minimal Watering Required
+F1031,Rice,140,26,🚨 High Risk,Switch to Drought-Resistant Variety
+F1032,Corn,110,20,🚨 High Risk,Switch to Sorghum

@@ -1,0 +1,42 @@
+{
+    "Corn": {
+        "water_requirement": "High",
+        "drought_resistance": "Low",
+        "alternative_crop": "Sorghum"
+    },
+    "Wheat": {
+        "water_requirement": "Moderate",
+        "drought_resistance": "Moderate",
+        "alternative_crop": "Barley"
+    },
+    "Soybeans": {
+        "water_requirement": "Moderate",
+        "drought_resistance": "Moderate",
+        "alternative_crop": "Millet"
+    },
+    "Sorghum": {
+        "water_requirement": "Low",
+        "drought_resistance": "High",
+        "alternative_crop": "Millet"
+    },
+    "Rice": {
+        "water_requirement": "Very High",
+        "drought_resistance": "Low",
+        "alternative_crop": "Sorghum"
+    },
+    "Cotton": {
+        "water_requirement": "Moderate",
+        "drought_resistance": "Moderate",
+        "alternative_crop": "Sorghum"
+    },
+    "Millet": {
+        "water_requirement": "Low",
+        "drought_resistance": "High",
+        "alternative_crop": "Sorghum"
+    },
+    "Barley": {
+        "water_requirement": "Moderate",
+        "drought_resistance": "Moderate",
+        "alternative_crop": "Millet"
+    }
+}
